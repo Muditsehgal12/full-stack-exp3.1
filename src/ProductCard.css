@@ -1,0 +1,42 @@
+.card {
+  width: 220px;
+  padding: 20px;
+  border-radius: 15px;
+  background: #f3f4f6;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  font-family: Arial;
+}
+
+.image {
+  height: 120px;
+  background: #d1d5db;
+  border-radius: 12px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.price {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.badge {
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 14px;
+}
+
+.in {
+  background: #d1fae5;
+  color: green;
+}
+
+.out {
+  background: #fee2e2;
+  color: red;
+}
